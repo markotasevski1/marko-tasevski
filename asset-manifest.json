@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marko-tasevski/static/css/main.62f6cba3.css",
+    "main.js": "/marko-tasevski/static/js/main.8c496408.js",
+    "static/js/787.b73ab5c3.chunk.js": "/marko-tasevski/static/js/787.b73ab5c3.chunk.js",
+    "index.html": "/marko-tasevski/index.html",
+    "main.62f6cba3.css.map": "/marko-tasevski/static/css/main.62f6cba3.css.map",
+    "main.8c496408.js.map": "/marko-tasevski/static/js/main.8c496408.js.map",
+    "787.b73ab5c3.chunk.js.map": "/marko-tasevski/static/js/787.b73ab5c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f6cba3.css",
+    "static/js/main.8c496408.js"
+  ]
+}
