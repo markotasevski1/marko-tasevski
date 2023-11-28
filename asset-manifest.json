@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/marko-tasevski/static/css/main.e6c13ad2.css",
-    "main.js": "/marko-tasevski/static/js/main.8588b8da.js",
+    "main.css": "/marko-tasevski/static/css/main.62f6cba3.css",
+    "main.js": "/marko-tasevski/static/js/main.8c496408.js",
     "static/js/787.b73ab5c3.chunk.js": "/marko-tasevski/static/js/787.b73ab5c3.chunk.js",
     "index.html": "/marko-tasevski/index.html",
-    "main.e6c13ad2.css.map": "/marko-tasevski/static/css/main.e6c13ad2.css.map",
-    "main.8588b8da.js.map": "/marko-tasevski/static/js/main.8588b8da.js.map",
+    "main.62f6cba3.css.map": "/marko-tasevski/static/css/main.62f6cba3.css.map",
+    "main.8c496408.js.map": "/marko-tasevski/static/js/main.8c496408.js.map",
     "787.b73ab5c3.chunk.js.map": "/marko-tasevski/static/js/787.b73ab5c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8588b8da.js"
+    "static/css/main.62f6cba3.css",
+    "static/js/main.8c496408.js"
   ]
 }
